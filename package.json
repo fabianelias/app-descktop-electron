@@ -1,0 +1,24 @@
+{
+  "name": "app-descktop-electron",
+  "version": "1.0.0",
+  "description": "to run a web application as a desktop application.",
+  "main": "index.js",
+  "dependencies": {
+    "electron-prebuilt": "^1.4.13"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabianelias/app-descktop-electron.git"
+  },
+  "author": "Fabian Bravo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fabianelias/app-descktop-electron/issues"
+  },
+  "homepage": "https://github.com/fabianelias/app-descktop-electron#readme"
+}
